@@ -1,0 +1,24 @@
+PODS:
+  - Reusable (4.1.0):
+    - Reusable/Storyboard (= 4.1.0)
+    - Reusable/View (= 4.1.0)
+  - Reusable/Storyboard (4.1.0)
+  - Reusable/View (4.1.0)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - Reusable
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Reusable
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Reusable: 82be188f29d96dc5eff0db7b2393bcc08d2cdd5b
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: 782950b446bac655d05b9de3cfdfaee8f308a3e6
+
+COCOAPODS: 1.8.1
